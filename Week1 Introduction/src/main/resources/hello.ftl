@@ -3,6 +3,6 @@
     <title>FreeMarker Example Web Application 1</title>
 </head>
 <body>
-${a}
+${message}
 </body>
 </html>
